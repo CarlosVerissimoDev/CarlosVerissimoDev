@@ -6,10 +6,10 @@
 - 😄 Pronouns: Ele/Dele
 
 <div>
-  <img src="https://img.icons8.com/dusk/40/000000/python.png"/>
-  <img src="https://img.icons8.com/dusk/40/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/dusk/40/000000/c-plus-plus.png"/>
-  <img src="https://img.icons8.com/dusk/40/000000/linux.png"/>
+  <img src="https://img.icons8.com/dusk/30/000000/python.png"/>
+  <img src="https://img.icons8.com/dusk/30/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/dusk/30/000000/c-plus-plus.png"/>
+  <img src="https://img.icons8.com/dusk/30/000000/linux.png"/>
 </div>
 
 <div>
