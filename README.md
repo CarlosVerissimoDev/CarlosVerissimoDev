@@ -7,11 +7,14 @@
 
 <div>
   <a href="https://github.com/CarlosVerissimoDev">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CarlosVerissimoDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVerissimoDev&layout=compact&langs_count=16&theme=great-gatsby"/>
+   <img height="149cm" src="https://github-readme-stats.vercel.app/api?username=CarlosVerissimoDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   <img height="149cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVerissimoDev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   
 <div>
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
+  <img src="https://img.icons8.com/dusk/40/000000/python.png"/>
+  <img src="https://img.icons8.com/dusk/40/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/dusk/40/000000/c-plus-plus.png"/>
+  <img src="https://img.icons8.com/dusk/40/000000/linux.png"/>
+  
 </div>
