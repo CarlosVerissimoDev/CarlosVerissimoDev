@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá! Eu sou Carlos Verissimo.
 
-<!--
-**CarlosVerissimoDev/CarlosVerissimoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente procurando estagio na area de desenvolvimento.
+- 🌱 Estudando Java e python
+- 📫 Contate-me no e-mail: carlosverissimo.dev@gmail.com
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/CarlosVerissimoDev">
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CarlosVerissimoDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVerissimoDev&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+  
+<div>
+  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
