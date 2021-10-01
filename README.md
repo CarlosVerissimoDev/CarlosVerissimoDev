@@ -15,7 +15,7 @@
 <div>
   <a href="https://github.com/CarlosVerissimoDev">
    <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=CarlosVerissimoDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVerissimoDev&layout=compact&langs_count=16&theme=great-gatsby"/>
+   <img height="155cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVerissimoDev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   
  ##
